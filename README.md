@@ -12,4 +12,4 @@
 
 3.计算出交点处的颜色。 
 
-
+![1611475676539](C:\Users\ADMINI~1\AppData\Local\Temp\1611475676539.png)
